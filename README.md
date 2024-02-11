@@ -9,20 +9,26 @@ Bookmarklet summaries -
   Calculator - 
     Simple calculator.
 
+  CheatSheet - 
+    CHANGE THE BOOKMARKLET CODE; Loads an image from the image address you provide to the bookmarklet. This image can be toggled by clicking the bookmarklet once again
+
   Cookie-Viewer - 
     View your cookies on the site where you ran the bookmarklet
 
-  Edit Page On - 
-    Edit the website where you ran the bookmarklet as if it were a text file
-
-  Edit Page Off - 
-    Turn off the effects of Edit Page On
+  Edit Page On/Off - 
+    Edit the website where you ran the bookmarklet as if it were a text file. TOGGLEABLE
 
   Hide - 
     Delete the tab name and icon, making it blank and hiding it from *cough* other people *cough* 
 
   Invisi-Search - 
     Hide the tab's activity from being monitored through extensions such as GoGuardian.
+
+  Measurements - 
+    Various tools for Web Design, including measuring or graphing elements.
+
+  MetaData - 
+    Makes a spreadsheet of the site's metadata so that it is readable
 
   Metric - 
     Convert all imperial measurements on the page (yd, in, ft, Fahrenheit, etc) to metric measurements
@@ -36,6 +42,12 @@ Bookmarklet summaries -
   Ruler - 
     Measures the pixels of the selected areas, along with a lot of other stuff
 
+  TabTime - 
+    Replaces the name of the tab with the amount of time since you clicked the bookmarklet so as to measure your screentime on that tab
+
+  TimeSpeak - 
+    Siri voice reads the current time out loud - what the voice says can be changed.
+  
   Timer - 
     An on-screen simple timer that lets you input the amount of time
 
@@ -51,11 +63,17 @@ Bookmarklet summaries -
   3D - 
     The laggiest piece of shit that makes your screen a 3D object
 
+  3D-2 - 
+    A different 3D algorithm that functions differently and doesn't lag like all hell
+
   YT-Adskip - 
     Skips ads on YouTube when clicked
 
   YT-Ambiance -
     More effective alternative to the blur behind videos that YouTube offers
+
+  YT-Data - 
+    When on the homepage of YouTube, when you click on the three dots of each video, you can find a lot of data about the video, including transcript, description, thumbnail, etc.
 
   YT-Download -
     Lets you download the YouTube video you want, in any quality and format.
