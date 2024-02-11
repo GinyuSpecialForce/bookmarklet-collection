@@ -1,0 +1,1 @@
+javascript:/*ToggleDesignMode*/(d=>{d.designMode=d.designMode==="on"?%22off%22:%22on%22;alert(%27Design%20mode%20%27+d.designMode)})(document)
